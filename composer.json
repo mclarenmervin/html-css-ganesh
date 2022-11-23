@@ -2,6 +2,6 @@
     "name": "mclarenmervin/html-css-ganesh",
     "description": "A HTML CSS Ganesh",
     "require": {
-        "php": ">=7.4"
+        "mclarenmervin/html-css-ganesh": "1.0.*"
     }
 }
