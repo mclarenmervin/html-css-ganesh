@@ -1,0 +1,7 @@
+{
+    "name": "mclarenmervin/html-css-ganesh",
+    "description": "A HTML CSS Ganesh",
+    "require": {
+        "php": ">=7.4"
+    }
+}
