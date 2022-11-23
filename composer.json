@@ -1,6 +1,8 @@
 {
     "name": "mclarenmervin/html-css-ganesh",
     "description": "A HTML CSS Ganesh",
+    "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^8.1"
     },
