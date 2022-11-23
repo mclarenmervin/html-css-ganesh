@@ -10,5 +10,8 @@
         "psr-4": {
             "App\\": "src/"
         }
+    },
+    "repository": {
+        "url":"PACKAGIST_PACKAGE_URL"
     }
 }
