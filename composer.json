@@ -7,9 +7,10 @@
         "php": "^7.3|^7.4|^8.0"
     },
     "autoload": {
-        "files": [
-            "ganesh.html"
-        ]
+
+        "psr-4": {
+            "App\\": "src/"
+        }
     },
     "repository": {
         "url":"https://github.com/mclarenmervin/html-css-ganesh"
